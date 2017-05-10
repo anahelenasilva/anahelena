@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="text_size">15sp</dimen>
+
+    <!-- Drawer Layout -->
+    <dimen name="drawerlayout_header_paddingtop">0dp</dimen>
+    <dimen name="drawerlayout_header_title_padding">0dp</dimen>
+
+</resources>

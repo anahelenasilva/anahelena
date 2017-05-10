@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ana Helena</string>
+    <string name="img_logo">Logo</string>
+    <string name="texto_projetos">Projetos</string>
+    <string name="texto_contato">Contato</string>
+    <string name="formacao_texto">Formação</string>
+</resources>

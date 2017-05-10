@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/grupo_formacao">
+        <item
+            android:id="@+id/menu_formacao"
+            android:title="@string/formacao_texto"
+            android:icon="@drawable/ic_school_green_700_18dp" />
+    </group>
+
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/grupo_projetos">
+        <item
+            android:id="@+id/menu_projetos"
+            android:title="@string/texto_projetos"
+            android:icon="@drawable/ic_folder_shared_green_700_18dp" />
+    </group>
+
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/grupo_contatos">
+        <item
+            android:id="@+id/menu_contatos"
+            android:title="@string/texto_contato"
+            android:icon="@drawable/ic_phone_green_700_18dp" />
+    </group>
+
+</menu>
