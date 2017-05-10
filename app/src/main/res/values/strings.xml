@@ -4,4 +4,7 @@
     <string name="texto_projetos">Projetos</string>
     <string name="texto_contato">Contato</string>
     <string name="formacao_texto">Formação</string>
+    <string name="activity_title_projetos">Projetos</string>
+    <string name="activity_title_contatos">Contatos</string>
+    <string name="activity_title_formacao">Formação</string>
 </resources>

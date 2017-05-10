@@ -2,6 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <dimen name="text_size">15sp</dimen>
+    <dimen name="toolbar_padding">0dp</dimen>
 
     <!-- Drawer Layout -->
     <dimen name="drawerlayout_header_paddingtop">0dp</dimen>
